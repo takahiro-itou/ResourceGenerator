@@ -20,7 +20,7 @@ namespace  ResGen  {
 //    Program  class.
 //
 
-internal  class  Program
+public  static  class  Program
 {
 
 //----------------------------------------------------------------
